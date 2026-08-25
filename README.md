@@ -1,4 +1,4 @@
-# :wave: The Basics of GitHub 
+# :wave: The Basics of GitHub: Revised by Haotian Chang
 
 ## 🤓 Course overview and learning outcomes 
 
